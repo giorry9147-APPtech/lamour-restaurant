@@ -17,19 +17,19 @@ export const galleryImages: GalleryImage[] = [
     alt: "Lamour chicken plate",
   },
   {
-    src: "/images/615494445_122108213781176643_5069357234799478385_n.jpg",
+    src: "/images/lamour-shrimps.jpg",
     alt: "Lamour plated dish",
   },
   {
-    src: "/images/601413769_122101649595176643_975453350392299308_n - Copy.jpg",
+    src: "/images/lamour-roses.jpg",
     alt: "Lamour rice dish",
   },
   {
-    src: "/images/630289068_122111694501176643_7820991933578950976_n.jpg",
+    src: "/images/lamour-burger.jpg",
     alt: "Lamour restaurant visual",
   },
   {
-    src: "/images/601474977_2013749663357245_1488607265368762688_n - Copy.jpg",
+    src: "/images/lamour-salmon.jpg",
     alt: "Lamour dining presentation",
   },
 ];
