@@ -9,7 +9,7 @@ export const galleryImages: GalleryImage[] = [
     alt: "Lamour signature steak dish",
   },
   {
-    src: "/images/lamour-pasta.jpg",
+    src: "/images/lamour-pasta.png",
     alt: "Lamour pasta dish",
   },
   {
